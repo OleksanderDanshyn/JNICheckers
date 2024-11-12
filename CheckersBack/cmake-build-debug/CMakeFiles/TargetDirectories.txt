@@ -1,0 +1,3 @@
+D:/CheckersJNIProject/CheckersBack/cmake-build-debug/CMakeFiles/checkers.dir
+D:/CheckersJNIProject/CheckersBack/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CheckersJNIProject/CheckersBack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
